@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROM_WoreStraitjacket.stages.0.label>wore straitjacket</ROM_WoreStraitjacket.stages.0.label>
+  <ROM_WoreStraitjacket.stages.0.description>The colony had me wear a strait jacket for a while.</ROM_WoreStraitjacket.stages.0.description>
+
+  <ROM_ColonistWoreStraitjacket.stages.0.label>colonist wore straitjacket</ROM_ColonistWoreStraitjacket.stages.0.label>
+  <ROM_ColonistWoreStraitjacket.stages.0.description>What kind of colony is this turning into?</ROM_ColonistWoreStraitjacket.stages.0.description>
+
+
+</LanguageData>
