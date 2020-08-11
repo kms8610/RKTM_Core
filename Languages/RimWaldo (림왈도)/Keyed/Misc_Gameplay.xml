@@ -176,7 +176,7 @@
   <UsingBedrolls>침낭 {0}개 사용 중</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
   <CaravanEstimatedTimeToDestination>목적지 예상 도착 시간: {0}일</CaravanEstimatedTimeToDestination>
-  <!-- EN: Estimated days to arrive: {0} -->
+  <!-- EN: Route travel time: {0} days -->
   <CaravanEstimatedDaysToDestination>도착 예정일: {0}</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
   <CaravanImmobilizedByMass>이동 불가: 너무 무거움.</CaravanImmobilizedByMass>
@@ -246,10 +246,10 @@
   <DeterioratingBecauseOf>손상 중</DeterioratingBecauseOf>
   <!-- EN: Map -->
   <Map>지도</Map>
-  <!-- EN: {0} until leaving -->
-  <ForceExitAndRemoveMapCountdown>나가기 전까지 {0} 남음</ForceExitAndRemoveMapCountdown>
-  <!-- EN: Your colonists will automatically reform the caravan and leave this area in {0}. -->
-  <ForceExitAndRemoveMapCountdownTip>정착민들이 {0} 후 상단을 꾸려 다시 출발합니다.</ForceExitAndRemoveMapCountdownTip>
+  <!-- EN: {0} until enemies arrive -->
+  <CaravanDetectedRaidCountdown>TODO</CaravanDetectedRaidCountdown>
+  <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
+  <CaravanDetectedRaidCountdownTip>TODO</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>방</Room>
   <!-- EN: Beauty here -->
@@ -368,7 +368,7 @@
   <CreatureFollowFieldwork>야외작업시 주인 따라가기</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{0}(와)과 {1}</ProximitySingleGoodwillChange>
-  <!-- EN: You can't re-enter for another {0} days. -->
+  <!-- EN: Too dangerous to re-enter for {0}. -->
   <EnterCooldown>{0}일 동안 재입장할 수 없습니다.</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>상단</Caravan>
@@ -378,8 +378,6 @@
   <PreciousLumpLabel>{0}의 덩어리</PreciousLumpLabel>
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>진행중인 연구과제 없음</NoActiveResearchProjectToFinish>
-  <!-- EN: Cannot research: No research bench -->
-  <CannotResearchNoBench>연구 벤치가 없어 연구를 진행할 수 없음</CannotResearchNoBench>
   <!-- EN: turret -->
   <Turret>포탑</Turret>
   <!-- EN: turrets -->
@@ -620,6 +618,8 @@
   <WatchingAurora>오로라 구경하는 중.</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
   <UsingVerb>{1}에 {0} 사용 중.</UsingVerb>
+  <!-- EN: using {0}. -->
+  <UsingVerbNoTarget>TODO</UsingVerbNoTarget>
   <!-- EN: area -->
   <AreaLower>구역</AreaLower>
   <!-- EN: cowering. -->
@@ -722,7 +722,7 @@
   <Faction>세력</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
   <FactionDesc>{PAWN_labelShort}(이)가 현재 소속된 세력입니다.</FactionDesc>
-  <!-- EN: The faction {PAWN_labelShort} originally belongs to. {PAWN_pronoun} will rejoin their home faction when they depart from their current faction. -->
+  <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
   <ExtraFactionDesc>{PAWN_labelShort}의 출신 세력입니다. 만약 현재 소속된 세력에서 문제가 생겨 이탈할 경우 이곳으로 돌아가게 됩니다.</ExtraFactionDesc>
   <!-- EN: Equipped -->
   <Equipped>장착</Equipped>
@@ -1020,9 +1020,9 @@
   <HibernateWarningStandalonePacifist>원자로 가동 준비를 마쳤습니다. 완전 예열까지는 15일이 걸립니다.</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
-  <!-- EN: neurotrainer ({0}) -->
+  <!-- EN: skilltrainer ({0}) -->
   <SkillNeurotrainerLabel>신경교육혈청 ({0})</SkillNeurotrainerLabel>
-  <!-- EN: Use skill neurotrainer to learn {0} -->
+  <!-- EN: Use skilltrainer to learn {0} -->
   <SkillNeurotrainerUseLabel>신경교육혈청을 사용하여 {0} 습득</SkillNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
   <SkillNeurotrainerDescription>특정한 기술을 강제로 훈련시키는 일회성의 메카나이트 혈청.\n\n안와를 통해 뇌로 직접 투여됩니다. 메카나이트는 뇌의 특정 영역으로 파고들어 신경 조직의 형태를 변형시킴으로써 피시술자의 기술 숙련도를 신속하게 개선해 줍니다.</SkillNeurotrainerDescription>
@@ -1163,6 +1163,10 @@
   <!-- EN: Deep drill resources exhausted. -->
   <DeepDrillExhaustedNoFallback>심층 자원이 고갈됐습니다.</DeepDrillExhaustedNoFallback>
 
+  <!-- reloading ammo -->
+  <!-- EN: Remaining charges -->
+  <ChargesRemaining>TODO</ChargesRemaining>
+  
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
   <LearningHelper>도우미</LearningHelper>
@@ -1238,7 +1242,7 @@
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
   <PawnTooltipPsychicEntropyStats>신경열: {0} / {1}\n하락률: {2} / s (0까지 {3}초)</PawnTooltipPsychicEntropyStats>
-  <!-- EN: Neural heat increases after performing a psycast. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
+  <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
   <PawnTooltipPsychicEntropyDesc>초능력을 시전한 이후 신경열이 증가합니다. 정상적인 한계를 넘어서면 정신이상이 나타날 수 있습니다.\n\n신경열은 시간이 지남에 따라 사라집니다. 이 과정은 엘텍스 의복을 착용하거나 고통을 겪으면서 가속화될 수 있습니다.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
   <PawnTooltipPsychicEntropyPainFocus>물리적 고통은 잡념을 제거하여 혼돈치를 빠르게 안정시킵니다.\n\n고통 수준: {0}\n정신력 혼돈치 회복 보너스: {1}</PawnTooltipPsychicEntropyPainFocus>
@@ -1274,6 +1278,26 @@
   <Reward_CampLoot>주둔지에 있는 모든 것을 노획할 수 있습니다.</Reward_CampLoot>
   <!-- EN: Camp loot -->
   <Reward_CampLoot_Label>주둔지 전리품</Reward_CampLoot_Label>
+  <!-- EN: the visitors will work and fight for you -->
+  <Reward_VisitorsHelp>TODO</Reward_VisitorsHelp>
+  <!-- EN: Visitors' help -->
+  <Reward_VisitorsHelp_Label>TODO</Reward_VisitorsHelp_Label>
+  <!-- EN: New psylink level -->
+  <Reward_BestowingCeremony_Label>TODO</Reward_BestowingCeremony_Label>
+  <!-- EN: {PAWNNAME} gains psylink -->
+  <Reward_BestowingCeremony>TODO</Reward_BestowingCeremony>
+  <!-- EN: Shuttle loot -->
+  <Reward_ShuttleLoot_Label>TODO</Reward_ShuttleLoot_Label>
+  <!-- EN: you can deconstruct and loot the shuttle -->
+  <Reward_ShuttleLoot>TODO</Reward_ShuttleLoot>
+  <!-- EN: Possible future reward -->
+  <Reward_PossibleFutureReward_Label>TODO</Reward_PossibleFutureReward_Label>
+  <!-- EN: a reward possibly granted in the future -->
+  <Reward_PossibleFutureReward>TODO</Reward_PossibleFutureReward>
+  <!-- EN: {TITLE} title -->
+  <Reward_Title_Label>TODO</Reward_Title_Label>
+  <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
+  <Reward_Title>TODO</Reward_Title>
   <!-- EN: value {0} -->
   <TotalValue>가치 {0}</TotalValue>
   
@@ -1284,6 +1308,12 @@
   <NotBonded>유대관계 없음</NotBonded>
   <!-- EN: bonded to someone else -->
   <BladelinkBondedToSomeoneElse>타인과 유대관계 형성</BladelinkBondedToSomeoneElse>
+  <!-- EN: (existing bond) -->
+  <BladelinkAlreadyBonded>TODO</BladelinkAlreadyBonded>
+  <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
+  <BladelinkAlreadyBondedDialog>TODO</BladelinkAlreadyBondedDialog>
+  <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
+  <BladelinkAlreadyBondedMessage>TODO</BladelinkAlreadyBondedMessage>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
@@ -1311,4 +1341,9 @@
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>{0}에 의해 발생</CausedByHediff>
   
+  <!-- UNUSED -->
+  <ForceExitAndRemoveMapCountdown>나가기 전까지 {0} 남음</ForceExitAndRemoveMapCountdown>
+  <ForceExitAndRemoveMapCountdownTip>정착민들이 {0} 후 상단을 꾸려 다시 출발합니다.</ForceExitAndRemoveMapCountdownTip>
+  <CannotResearchNoBench>연구 벤치가 없어 연구를 진행할 수 없음</CannotResearchNoBench>
+
 </LanguageData>

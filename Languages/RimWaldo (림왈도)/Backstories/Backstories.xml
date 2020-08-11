@@ -2839,14 +2839,14 @@
     <desc>[PAWN_nameDef](은)는 먹고살기 위해서 헥스셀 조각품을 만들어 지역 박물관에 그것을 팔아 살고 있었습니다. 그런데 [PAWN_pronoun]의 명성이 조금씩 커지자 어느 날 해적들이 [PAWN_pronoun]를 납치 해버렸습니다. 그 후는 해적들의 죄수로서 강제로 조각품을 만들어 팔게끔 하였습니다.</desc>
   </HexCellArtist91>
   
-  <Hideaway9>
+  <Hideaway7>
     <!-- EN: hideaway -->
     <title>숨겨진 아이</title>
     <!-- EN: hideaway -->
     <titleShort>숨겨진 아이</titleShort>
-    <!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though[PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
+    <!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though [PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
     <desc>[PAWN_nameDef]의 과잉보호적인 부모는 [PAWN_objective] 거의 매일 집에 머물도록 만들었습니다. 그래도 [PAWN_pronoun]는 취미를 만들고 독서를 할 시간은 많았지만, 제대로 된 사교 기술을 배울 수는 없었습니다.</desc>
-  </Hideaway9>
+  </Hideaway7>
   
   <HighBaroness37>
     <!-- EN: high baroness -->
@@ -3800,6 +3800,15 @@
     <desc>변경계 노예상인들에게서 탈출한 후, [PAWN_nameDef](은)는 더 이상 생명을 존중하지 않았습니다. [PAWN_pronoun]는 총과 생존 기술을 이용해 용병으로 살기 시작했습니다. [PAWN_nameDef](은)는 더러운 일을 하며, 많은 세계를 여행했습니다.</desc>
   </Mercenary55>
   
+  <MercenaryCaptain56>
+    <!-- EN: Mercenary captain -->
+    <title>TODO</title>
+    <!-- EN: Captain -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_pronoun] was in the crew of a mercenary ship. Disciplined and confident, [PAWN_nameDef] quickly rose through the ranks and gained friends.\n\nIn [PAWN_possessive] time as a mercenary captain, [PAWN_pronoun] was known for being gregarious and calm - possibly thanks to the joywires. -->
+    <desc>TODO</desc>
+  </MercenaryCaptain56>
+  
   <MercenaryChef44>
     <!-- EN: mercenary chef -->
     <title>용병 주방장</title>
@@ -4340,6 +4349,15 @@
     <desc>부모님 없이 홀로 남겨진 [PAWN_nameDef](은)는 적응하기 위해 최선을 다했습니다.\n\n고아원에서 자신과 어린 아이들을 모두 돌봐야 했던 [PAWN_pronoun]는 다양한 종류의 사람에 대해, 그리고 각각의 그들을 대하는 법에 대해 많은 것을 배웠습니다.</desc>
   </Orphan25>
   
+  <OrphanedAcrobat84>
+    <!-- EN: Orphaned acrobat -->
+    <title>TODO</title>
+    <!-- EN: Acrobat -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: Born a quiet urbworld orphan, [PAWN_nameDef] was invited to join a traveling circus. [PAWN_possessive] small size and observant nature helped [PAWN_nameDef] become a noted acrobat.\n\nUnfortunately, [PAWN_possessive] violent tendencies brought [PAWN_possessive] acrobatic career to an early end. -->
+    <desc>TODO</desc>
+  </OrphanedAcrobat84>
+  
   <OrphanOfWar60>
     <!-- EN: orphan of war -->
     <title>전쟁 고아</title>
@@ -4631,7 +4649,7 @@
     <!-- EN: policewoman -->
     <titleShortFemale>경찰관</titleShortFemale>
     <!-- EN: [PAWN_nameDef] kept the peace as a line officer in a municipal police force.\n\n[PAWN_pronoun] was trained in de-escalation, physical control, shooting, and other police skills. -->
-    <desc>[PAWN_nameDef](은)는 자치구 경찰의 계장이엿습니다.\n\n[PAWN_pronoun]는 대치 상황의 해결 방법이나, 호신술, 사격과 여러 경찰 기술을 훈련받았었습니다.</desc>
+    <desc>[PAWN_nameDef](은)는 자치구 경찰의 계장이였습니다.\n\n[PAWN_pronoun]는 대치 상황의 해결 방법이나, 호신술, 사격과 여러 경찰 기술을 훈련받았었습니다.</desc>
   </Policeman45>
   
   <PoliticalActivist20>
@@ -5867,7 +5885,7 @@
     <!-- EN: spoiled -->
     <titleShort>응석받이</titleShort>
     <!-- EN: [PAWN_nameDef] was the child of an industrious space engineer. [PAWN_possessive] parents forbade most manual and dangerous tasks, so [PAWN_pronoun] learned art and music instead.\n\n[PAWN_pronoun] loved animals, but [PAWN_possessive] parents never let [PAWN_objective] have a pet - though [PAWN_pronoun] played with other people's pets a lot. -->
-    <desc>[PAWN_nameDef](은)는 산업 우주 공학자의 아이로 태어났습니다. [PAWN_possessive] 부모는 위험한 일을 시키려 하지 안핬고, [PAWN_pronoun]는 대신에 미술과 음악을 배웠습니다.\n\n[PAWN_pronoun]는 동물을 사랑했지만, [PAWN_possessive] 부모는 애완동물을 갖지 못하게 했습니다.</desc>
+    <desc>[PAWN_nameDef](은)는 산업 우주 공학자의 아이로 태어났습니다. [PAWN_possessive] 부모는 위험한 일을 시키려 하지 않았고, [PAWN_pronoun]는 대신에 미술과 음악을 배웠습니다.\n\n[PAWN_pronoun]는 동물을 사랑했지만, [PAWN_possessive] 부모는 애완동물을 갖지 못하게 했습니다.</desc>
   </SpoiledChild80>
   
   <Spy58>

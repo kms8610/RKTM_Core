@@ -129,7 +129,7 @@
   <!-- EN: quick sleeper -->
   <QuickSleeper.degreeDatas.quick_sleeper.label>숙면가</QuickSleeper.degreeDatas.quick_sleeper.label>
   <!-- EN: {PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time. -->
-  <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_nameDef}(은)는 평범한 사람보다 훨씬 효율적으로 수면 시간을 보냅니다. {PAWN_pronoun}는 침대에서 자든 바닥에서 자든 보통 사람보다 33% 더 빨리 회복합니다.</QuickSleeper.degreeDatas.quick_sleeper.description>
+  <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_nameDef}(은)는 평범한 사람보다 훨씬 효율적으로 수면 시간을 보냅니다. 어떤 곳에서 자든, {PAWN_pronoun}는 보통 사람보다 33% 더 빨리 회복합니다.</QuickSleeper.degreeDatas.quick_sleeper.description>
   
   <!-- EN: slow learner -->
   <SlowLearner.degreeDatas.slow_learner.label>느린 학습가</SlowLearner.degreeDatas.slow_learner.label>

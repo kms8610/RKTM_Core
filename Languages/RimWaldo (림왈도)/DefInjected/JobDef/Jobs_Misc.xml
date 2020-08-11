@@ -16,6 +16,18 @@
   <!-- EN: Doing something. -->
   <CastAbilityOnThing.reportString>뭔가 하는 중.</CastAbilityOnThing.reportString>
   
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingMelee.reportString>TODO</CastAbilityOnThingMelee.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingUninterruptible.reportString>TODO</CastAbilityOnThingUninterruptible.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnWorldTile.reportString>TODO</CastAbilityOnWorldTile.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastJump.reportString>TODO</CastJump.reportString>
+  
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>눈 치우는 중.</ClearSnow.reportString>
   
@@ -112,6 +124,9 @@
   <!-- EN: refueling TargetA. -->
   <RefuelAtomic.reportString>TargetA 연료 채우는 중.</RefuelAtomic.reportString>
   
+  <!-- EN: reloading TargetA. -->
+  <Reload.reportString>TODO</Reload.reportString>
+  
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>TargetA 제거 중.</RemoveApparel.reportString>
   
@@ -153,6 +168,9 @@
   
   <!-- EN: Doing something. -->
   <UseVerbOnThing.reportString>하는 중.</UseVerbOnThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStatic.reportString>TODO</UseVerbOnThingStatic.reportString>
   
   <!-- EN: vomiting. -->
   <Vomit.reportString>토하는 중.</Vomit.reportString>

@@ -214,14 +214,14 @@
   <InteractionSpotWillOverlap>상호 작용 지점이 {1_labelShort}의 상호 작용 지점과 겹칠 것입니다.</InteractionSpotWillOverlap>
   <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
   <InteractionSpotOverlaps>상호 작용 지점이 {1_labelShort}의 상호 작용 지점과 겹칩니다.</InteractionSpotOverlaps>
-  <!-- EN: Monuments cannot be placed over other buildings. -->
+  <!-- EN: Cannot place monument over: {0}. -->
+  <CannotPlaceMonumentOver>TODO</CannotPlaceMonumentOver>
+  <!-- EN: Cannot build on: {0}. -->
+  <CannotPlaceMonumentOnTerrain>TODO</CannotPlaceMonumentOnTerrain>
+  <!-- EN: Cannot place monument over: {0}. -->
   <MonumentOverlapsBuilding>기념비는 다른 건물 위에 배치할 수 없습니다.</MonumentOverlapsBuilding>
-  <!-- EN: Monument cannot be placed adjacent to a building. -->
+  <!-- EN: Monument cannot be placed adjacent to: {0}. -->
   <MonumentAdjacentToBuilding>기념비는 건물에 붙여서 배치할 수 없습니다.</MonumentAdjacentToBuilding>
-  <!-- EN: Monuments cannot be placed on incompatible terrain. -->
-  <MonumentBadTerrain>기념비는 적합하지 않은 지형에 배치할 수 없습니다.</MonumentBadTerrain>
-  <!-- EN: Monuments cannot be placed over permanent obstructions. -->
-  <MonumentBlockedPermanently>기념비는 영구적인 방해물 위에 배치할 수 없습니다.</MonumentBlockedPermanently>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
@@ -242,5 +242,9 @@
   <NoColonistWithAllSkillsForConstructing>필요한 기술을 가진 {0}(이)가 없습니다.</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
   <AllColonistsWithSkillHaveDisabledConstructingTip>{0} 기술을 가진 정착민이 {1}에 배정되지 않았습니다.</AllColonistsWithSkillHaveDisabledConstructingTip>
+
+  <!-- UNUSED -->
+  <MonumentBadTerrain>기념비는 적합하지 않은 지형에 배치할 수 없습니다.</MonumentBadTerrain>
+  <MonumentBlockedPermanently>기념비는 영구적인 방해물 위에 배치할 수 없습니다.</MonumentBlockedPermanently>
 
 </LanguageData>

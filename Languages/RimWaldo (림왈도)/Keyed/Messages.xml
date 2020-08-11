@@ -13,6 +13,9 @@
   <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
   <MessageRaidersStealing>{1}의 {0}(이)가 챙길 수 있는걸 챙기고 떠나기로 했습니다.</MessageRaidersStealing>
 
+  <!-- EN: {0} from {1} have arrived in the area of your caravan and are attacking. More are on the way and will arrive in {2}. -->
+  <MessageCaravanDetectedRaidArrived>TODO</MessageCaravanDetectedRaidArrived>
+
   <!-- EN: {0} from {1} are leaving. -->
   <MessageRaidersLeaving>{1}의 {0}(이)가 떠나고 있습니다.</MessageRaidersLeaving>
   <!-- EN: {0} from {1} have given up and are leaving. -->
@@ -76,6 +79,8 @@
   <MessageTameSuccess>{RECRUITER_labelShort}(이)가 {1}(을)를 성공적으로 길들였습니다.({2} 확률).</MessageTameSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}. -->
   <MessageTameAndNameSuccess>{RECRUITER_labelShort}(이)가 {1}(을)를 성공적으로 길들이고({2} 확률) {RECRUITEE_nameFull}(이)라는 이름을 지었습니다.</MessageTameAndNameSuccess>
+  <!-- EN: {RECRUITEE} has joined your colony. -->
+  <MessageRecruitJoinOfferAccepted>TODO</MessageRecruitJoinOfferAccepted>
 
   <!-- EN: The colony cannot afford this deal. -->
   <MessageColonyCannotAfford>정착지가 요금을 지불할 수 없습니다.</MessageColonyCannotAfford>
@@ -141,15 +146,6 @@
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
   <MessageInvoluntarySleep>{1_labelShort}(이)가 엄청난 피로로 인해 쓰러졌습니다.</MessageInvoluntarySleep>
 
-  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort}(이)가 {PATIENT_labelShort}의 {RECIPE_label} 수술 중 약간 실수했습니다.</MessageMedicalOperationFailureMinor>
-  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort}(이)가 {PATIENT_labelShort}의 {RECIPE_label} 수술을 처참하게 실패했습니다.</MessageMedicalOperationFailureCatastrophic>
-  <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort}(이)가 {PATIENT_labelShort}의 {RECIPE_label}수술을 어처구니가 없을 정도로 실패했습니다.</MessageMedicalOperationFailureRidiculous>
-  <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2} -->
-  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort}(이)가 다음과 같은 일을 진행하던 도중 {PATIENT_labelShort}에게 치명적인 실수를 저질렀습니다: {2}</MessageMedicalOperationFailureFatal>
-
   <!-- EN: This operation will anger {0}. -->
   <MessageMedicalOperationWillAngerFaction>이 수술은 {0} 세력을 분노하게 할 것입니다.</MessageMedicalOperationWillAngerFaction>
 
@@ -194,7 +190,7 @@
   <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
   <MessageSocialFight>{PAWN1_labelShort}(와)과 {PAWN2_labelShort}(이)가 사교적 다툼이 생겼습니다.</MessageSocialFight>
   
-  <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}’s marriage. -->
+  <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}'s marriage. -->
   <MessageNewMarriageCeremony>정착민들이 모두 모여 {PAWN1_labelShort}(와)과 {PAWN2_labelShort}의 결혼을 축하할 준비를 하고 있습니다.</MessageNewMarriageCeremony>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
   <MessageMarriageCeremonyStarts>{PAWN1_labelShort}(와)과 {PAWN2_labelShort}의 결혼식을 시작합니다!</MessageMarriageCeremonyStarts>
@@ -239,7 +235,7 @@
   <MessageNoLongerBingingOnDrug>{2_labelShort}의 {1} 갈망이 끝났습니다.</MessageNoLongerBingingOnDrug>
 
   <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
-  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort}(은)는 더 이상 {TARGET_label}의 모욕에 반응하지 않습니다.</MessageNoLongerOnTargetedInsultingSpree>
+  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort}(은)는 {TARGET_label}에게 더는 모욕하지 않습니다.</MessageNoLongerOnTargetedInsultingSpree>
 
   <!-- EN: {1_label} has rotted away in storage. -->
   <MessageRottedAwayInStorage>{1_label}(이)가 완전히 상해서 없어졌습니다.</MessageRottedAwayInStorage>
@@ -453,9 +449,6 @@
   <!-- EN: Cannot build a roof over {0}. -->
   <MessageRoofIncompatibleWithPlant>{0}(은)는 지붕 아래에 건설할 수 없습니다.</MessageRoofIncompatibleWithPlant>
 
-  <!-- EN: Caravan will automatically travel to the first waypoint. -->
-  <MessageChoseRoute>상단은 자동으로 첫 번째 경유지로 이동합니다.</MessageChoseRoute>
-
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
   <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>이 지역을 떠나려면, 세계 지도에서 '상단 재구성' 버튼을 사용하세요.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
   <!-- EN: You can't leave the map now. -->
@@ -513,6 +506,18 @@
   <GoodwillChangedReason_RequestedMilitaryAid>요청된 군사 지원</GoodwillChangedReason_RequestedMilitaryAid>
   <!-- EN: requested trader caravan -->
   <GoodwillChangedReason_RequestedTrader>요청된 상단 거래</GoodwillChangedReason_RequestedTrader>
+  <!-- EN: caused neuroquake echo -->
+  <GoodwillChangedReason_CausedNeuroquakeEcho>TODO</GoodwillChangedReason_CausedNeuroquakeEcho>
+  <!-- EN: caused berserk on {PAWN_labelShort} -->
+  <GoodwillChangedReason_CausedBerserk>TODO</GoodwillChangedReason_CausedBerserk>
+  <!-- EN: attacked {0_name} -->
+  <GoodwillChangeReason_AttackedFaction>TODO</GoodwillChangeReason_AttackedFaction>
+  <!-- EN: shuttle destroyed -->
+  <GoodwillChangeReason_ShuttleDestroyed>TODO</GoodwillChangeReason_ShuttleDestroyed>
+  <!-- EN: civilians lost -->
+  <GoodwillChangeReason_CiviliansLost>TODO</GoodwillChangeReason_CiviliansLost>
+  <!-- EN: commander lost -->
+  <GoodwillChangeReason_CommanderLost>TODO</GoodwillChangeReason_CommanderLost>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
   <MessageGiftGivenButNotAppreciated>{0} 세력은 선물을 받았지만 좋아하진 않았습니다.</MessageGiftGivenButNotAppreciated>
@@ -551,7 +556,7 @@
   <!-- EN: {0} couldn't reach its destination. -->
   <MessageCaravanArrivalActionNoLongerValid>{0}(이)가 목적지에 도달할 수 없습니다.</MessageCaravanArrivalActionNoLongerValid>
 
-  <!-- EN: You can't re-enter for another {0} days. -->
+  <!-- EN: Too dangerous to re-enter for {0}. -->
   <MessageEnterCooldownBlocksEntering>{0}일 동안 재방문 할 수 없습니다.</MessageEnterCooldownBlocksEntering>
 
   <!-- EN: {0_labelShort} can now freely use "{1}". -->
@@ -615,5 +620,11 @@
 
   <!-- EN: {0_label} is currently hidden. -->
   <MessageCannotSelectInvisibleStat>{0_label}은 현재 숨겨져 있습니다.</MessageCannotSelectInvisibleStat>
+
+  <!-- EN: {PAWN_nameDef} is a prisoner -->
+  <MessagePrisonerCannotEquipWeapon>TODO</MessagePrisonerCannotEquipWeapon>
+
+  <!-- UNUSED -->
+  <MessageChoseRoute>상단은 자동으로 첫 번째 경유지로 이동합니다.</MessageChoseRoute>
 
 </LanguageData>

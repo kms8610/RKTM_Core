@@ -13,6 +13,9 @@
   <!-- EN: noble apparel -->
   <ApparelNoble.label>상류복</ApparelNoble.label>
   
+  <!-- EN: utility -->
+  <ApparelUtility.label>TODO</ApparelUtility.label>
+  
   <!-- EN: headgear -->
   <ArmorHeadgear.label>머리</ArmorHeadgear.label>
   
@@ -138,6 +141,9 @@
   
   <!-- EN: psytrainers -->
   <NeurotrainersPsycast.label>초능력 이식물</NeurotrainersPsycast.label>
+  
+  <!-- EN: skilltrainers -->
+  <NeurotrainersSkill.label>TODO</NeurotrainersSkill.label>
   
   <!-- EN: vegetarian -->
   <PlantFoodRaw.label>식물</PlantFoodRaw.label>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: standardname(p=0.2)->isle [narrative_name] -->
+  <!-- EN: r_name(p=0.2)->isle [narrative_name] -->
   <NamerArchipelago.rulePack.rulesStrings.0>standardname(p=0.2)->[narrative_name] 섬</NamerArchipelago.rulePack.rulesStrings.0>
   <!-- EN: terrain_word(p=4)->islands -->
   <NamerArchipelago.rulePack.rulesStrings.1>terrain_word(p=4)->열도</NamerArchipelago.rulePack.rulesStrings.1>
@@ -39,7 +39,7 @@
   <!-- EN: terrain_word->barrens -->
   <NamerAridShrubland.rulePack.rulesStrings.7>terrain_word->황무지</NamerAridShrubland.rulePack.rulesStrings.7>
   
-  <!-- EN: standardname(p=0.2)->gulf of [narrative_name] -->
+  <!-- EN: r_name(p=0.2)->gulf of [narrative_name] -->
   <NamerBay.rulePack.rulesStrings.0>standardname(p=0.2)->[narrative_name] 만</NamerBay.rulePack.rulesStrings.0>
   <!-- EN: terrain_word(p=6)->bay -->
   <NamerBay.rulePack.rulesStrings.1>terrain_word(p=6)-> 만</NamerBay.rulePack.rulesStrings.1>
@@ -67,7 +67,7 @@
   <!-- EN: terrain_word->thicket -->
   <NamerBorealForest.rulePack.rulesStrings.6>terrain_word->수목지대</NamerBorealForest.rulePack.rulesStrings.6>
   
-  <!-- EN: standardname(p=0.4)->[desert_adjective] [narrative_name] -->
+  <!-- EN: r_name(p=0.4)->[desert_adjective] [narrative_name] -->
   <NamerDesert.rulePack.rulesStrings.0>standardname(p=0.4)->[desert_adjective] [narrative_name] 사막</NamerDesert.rulePack.rulesStrings.0>
   <!-- EN: desert_adjective->flat -->
   <NamerDesert.rulePack.rulesStrings.1>desert_adjective->황토빛의</NamerDesert.rulePack.rulesStrings.1>
@@ -138,7 +138,7 @@
   <!-- EN: terrain_word(p=0.3)->tract -->
   <NamerIceSheet.rulePack.rulesStrings.7>terrain_word(p=0.3)->빙원</NamerIceSheet.rulePack.rulesStrings.7>
   
-  <!-- EN: standardname(p=0.2)->isle [narrative_name] -->
+  <!-- EN: r_name(p=0.2)->isle [narrative_name] -->
   <NamerIsland.rulePack.rulesStrings.0>standardname(p=0.2)->[narrative_name] 섬</NamerIsland.rulePack.rulesStrings.0>
   <!-- EN: terrain_word(p=4)->island -->
   <NamerIsland.rulePack.rulesStrings.1>terrain_word(p=4)->섬</NamerIsland.rulePack.rulesStrings.1>
@@ -155,7 +155,7 @@
   <!-- EN: terrain_word->point -->
   <NamerIsland.rulePack.rulesStrings.7>terrain_word->포인트</NamerIsland.rulePack.rulesStrings.7>
   
-  <!-- EN: standardname->lake [narrative_name] -->
+  <!-- EN: r_name->lake [narrative_name] -->
   <NamerLake.rulePack.rulesStrings.0>standardname->[narrative_name] 호수</NamerLake.rulePack.rulesStrings.0>
   <!-- EN: terrain_word(p=6)->lake -->
   <NamerLake.rulePack.rulesStrings.1>terrain_word(p=6)->호수</NamerLake.rulePack.rulesStrings.1>
@@ -174,7 +174,7 @@
   <!-- EN: terrain_word(p=0.3)->loch -->
   <NamerLake.rulePack.rulesStrings.8>terrain_word(p=0.3)->호수</NamerLake.rulePack.rulesStrings.8>
   
-  <!-- EN: standardname(p=0.2)->mount [narrative_name] -->
+  <!-- EN: r_name(p=0.2)->mount [narrative_name] -->
   <NamerMountainRange.rulePack.rulesStrings.0>standardname(p=0.2)->[narrative_name] 산맥</NamerMountainRange.rulePack.rulesStrings.0>
   <!-- EN: terrain_word(p=5)->mountains -->
   <NamerMountainRange.rulePack.rulesStrings.1>terrain_word(p=5)->산맥</NamerMountainRange.rulePack.rulesStrings.1>
@@ -187,7 +187,7 @@
   <!-- EN: terrain_word->cliffs -->
   <NamerMountainRange.rulePack.rulesStrings.5>terrain_word->구릉지대</NamerMountainRange.rulePack.rulesStrings.5>
   
-  <!-- EN: standardname(p=0.4)->[ocean_adjective] [narrative_name] -->
+  <!-- EN: r_name(p=0.4)->[ocean_adjective] [narrative_name] -->
   <NamerOcean.rulePack.rulesStrings.0>standardname(p=0.4)->[ocean_adjective] [narrative_name] 대양</NamerOcean.rulePack.rulesStrings.0>
   <!-- EN: ocean_adjective->blue -->
   <NamerOcean.rulePack.rulesStrings.1>ocean_adjective->푸른</NamerOcean.rulePack.rulesStrings.1>
@@ -222,9 +222,9 @@
   <!-- EN: terrain_word->expanse -->
   <NamerOcean.rulePack.rulesStrings.16>terrain_word->대양</NamerOcean.rulePack.rulesStrings.16>
   
-  <!-- EN: standardname(p=0.2)->point [narrative_name] -->
+  <!-- EN: r_name(p=0.2)->point [narrative_name] -->
   <NamerPeninsula.rulePack.rulesStrings.0>standardname(p=0.2)->[narrative_name] 포인트</NamerPeninsula.rulePack.rulesStrings.0>
-  <!-- EN: standardname(p=0.2)->cape [narrative_name] -->
+  <!-- EN: r_name(p=0.2)->cape [narrative_name] -->
   <NamerPeninsula.rulePack.rulesStrings.1>standardname(p=0.2)->[narrative_name] 곶</NamerPeninsula.rulePack.rulesStrings.1>
   <!-- EN: terrain_word(p=5)->peninsula -->
   <NamerPeninsula.rulePack.rulesStrings.2>terrain_word(p=5)->반도</NamerPeninsula.rulePack.rulesStrings.2>
@@ -237,7 +237,7 @@
   <!-- EN: terrain_word->horn -->
   <NamerPeninsula.rulePack.rulesStrings.6>terrain_word->뿔</NamerPeninsula.rulePack.rulesStrings.6>
   
-  <!-- EN: standardname(p=0.1)->lake [narrative_name] -->
+  <!-- EN: r_name(p=0.1)->lake [narrative_name] -->
   <NamerSea.rulePack.rulesStrings.0>standardname(p=0.1)->[narrative_name] 호수</NamerSea.rulePack.rulesStrings.0>
   <!-- EN: terrain_word(p=6)->sea -->
   <NamerSea.rulePack.rulesStrings.1>terrain_word(p=6)->해</NamerSea.rulePack.rulesStrings.1>
@@ -246,9 +246,9 @@
   <!-- EN: terrain_word->lake -->
   <NamerSea.rulePack.rulesStrings.3>terrain_word->호수</NamerSea.rulePack.rulesStrings.3>
   
-  <!-- EN: standardname(p=0.1)->fen [narrative_name] -->
+  <!-- EN: r_name(p=0.1)->fen [narrative_name] -->
   <NamerSwamp.rulePack.rulesStrings.0>standardname(p=0.1)->[narrative_name] 습지</NamerSwamp.rulePack.rulesStrings.0>
-  <!-- EN: standardname(p=0.3)->[swamp_adjective] [narrative_name] -->
+  <!-- EN: r_name(p=0.3)->[swamp_adjective] [narrative_name] -->
   <NamerSwamp.rulePack.rulesStrings.1>standardname(p=0.3)->[narrative_name] [swamp_adjective]</NamerSwamp.rulePack.rulesStrings.1>
   <!-- EN: swamp_adjective->wet -->
   <NamerSwamp.rulePack.rulesStrings.2>swamp_adjective->늪지</NamerSwamp.rulePack.rulesStrings.2>
@@ -283,7 +283,7 @@
   <!-- EN: terrain_word->fen -->
   <NamerSwamp.rulePack.rulesStrings.17>terrain_word->습지</NamerSwamp.rulePack.rulesStrings.17>
   
-  <!-- EN: standardname(p=0.3)->[rainforest_adjective] [narrative_name] -->
+  <!-- EN: r_name(p=0.3)->[rainforest_adjective] [narrative_name] -->
   <NamerTropicalRainforest.rulePack.rulesStrings.0>standardname(p=0.3)->[narrative_name] [rainforest_adjective]</NamerTropicalRainforest.rulePack.rulesStrings.0>
   <!-- EN: rainforest_adjective->wet -->
   <NamerTropicalRainforest.rulePack.rulesStrings.1>rainforest_adjective->열대림</NamerTropicalRainforest.rulePack.rulesStrings.1>

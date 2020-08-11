@@ -4,6 +4,9 @@
   <!-- EN: bombardment -->
   <Bombardment.label>궤도 폭격</Bombardment.label>
   
+  <!-- EN: Mote -->
+  <Mote_Bombardment_PreImpact.label>TODO</Mote_Bombardment_PreImpact.label>
+  
   <!-- EN: power beam -->
   <PowerBeam.label>궤도 빔 폭격</PowerBeam.label>
   

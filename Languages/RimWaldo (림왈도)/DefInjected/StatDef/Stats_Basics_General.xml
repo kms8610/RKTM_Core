@@ -39,7 +39,9 @@
   <MarketValue.label>시장 가치</MarketValue.label>
   <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
   <MarketValue.description>대상의 시장 가치입니다. 실제 가격은 거래 실력과 관계를 포함한 요인에 의해 바뀔 수 있습니다.</MarketValue.description>
-  <MarketValue.formatString>${0}</MarketValue.formatString>
+  
+  <!-- EN: market value ignoring hitpoints -->
+  <MarketValueIgnoreHp.label>TODO</MarketValueIgnoreHp.label>
   
   <!-- EN: mass -->
   <Mass.label>무게</Mass.label>
@@ -58,9 +60,9 @@
   <!-- EN: How nutritious this food is. -->
   <Nutrition.description>음식의 열량을 나타냅니다.</Nutrition.description>
   
-  <!-- EN: royal favor value -->
+  <!-- EN: honor value -->
   <RoyalFavorValue.label>신임장 가치</RoyalFavorValue.label>
-  <!-- EN: The amount of royal favor your trader will earn for giving this to a tribute collector. -->
+  <!-- EN: The amount of honor your trader will earn for giving this to a tribute collector. -->
   <RoyalFavorValue.description>진상품 수집상인에게 줬을 때 거래로 얻게되는 신임장 갯수입니다.</RoyalFavorValue.description>
   
   <!-- EN: sell price multiplier -->

@@ -54,7 +54,7 @@
   <!-- EN: sterile tile -->
   <SterileTile.label>항균 타일</SterileTile.label>
   <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
-  <SterileTile.description>방을 청결하게 유지해야 할 때 도움이 됩니다. 청결도는 병원과 연구실의 결과를 향상시켜줍니다. 이 타일은 제작 속도가 매우 느립니다.</SterileTile.description>
+  <SterileTile.description>방을 청결하게 유지해야 할 때 도움이 됩니다. 청결도는 병원과 연구실의 결과를 향상해줍니다. 이 타일은 제작 속도가 매우 느립니다.</SterileTile.description>
   
   <!-- EN: wood floor -->
   <WoodPlankFloor.label>나무 바닥</WoodPlankFloor.label>

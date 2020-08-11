@@ -60,7 +60,7 @@
   <!-- EN: make any stone blocks -->
   <Make_StoneBlocksAny.label>석재 만들기</Make_StoneBlocksAny.label>
   <!-- EN: Cut rock chunks into usable stone blocks. -->
-  <Make_StoneBlocksAny.description>바위 덩어리를 석재로 가공합니다.</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.description>바위 덩어리를 사용 가능한 석재로 가공합니다.</Make_StoneBlocksAny.description>
   <!-- EN: Cutting stone blocks from chunk. -->
   <Make_StoneBlocksAny.jobString>석재 만드는 중.</Make_StoneBlocksAny.jobString>
   

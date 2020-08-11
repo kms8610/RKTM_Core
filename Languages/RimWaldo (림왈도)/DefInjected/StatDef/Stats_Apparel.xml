@@ -55,9 +55,9 @@
   <!-- EN: Insulation - Heat (armor stat) -->
   <Insulation_Heat.labelForFullStatList>방열 (방어도 통계)</Insulation_Heat.labelForFullStatList>
   
-  <!-- EN: Smokepop belt radius -->
+  <!-- EN: Smokepop pack radius -->
   <SmokepopBeltRadius.label>연막 범위</SmokepopBeltRadius.label>
-  <!-- EN: The area obscured when a smokepop belt detonates. -->
+  <!-- EN: The area obscured when a smokepop pack detonates. -->
   <SmokepopBeltRadius.description>연막이 적용되는 범위입니다.</SmokepopBeltRadius.description>
   <!-- EN: {0} c -->
   <SmokepopBeltRadius.formatString>{0}칸</SmokepopBeltRadius.formatString>

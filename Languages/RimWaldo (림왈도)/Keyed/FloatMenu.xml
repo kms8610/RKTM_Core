@@ -41,6 +41,8 @@
   <CannotOrderNonControlledLower>대상에게는 명령을 내릴 수 없음</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>자신을 공격할 수 없음</CannotAttackSelf>
+  <!-- EN: cannot attack faction ally -->
+  <CannotAttackSameFactionMember>TODO</CannotAttackSameFactionMember>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>{1_labelShort} 조작</OrderManThing>
@@ -136,6 +138,8 @@
   <InstallImplantAlreadyMaxLevel>이미 최고단계임</InstallImplantAlreadyMaxLevel>
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>{0}(을)를 {1}단계로 향상</UpgradeImplant>
+  <!-- EN: violation of faction ally -->
+  <SurgeryViolationFellowFactionMember>TODO</SurgeryViolationFellowFactionMember>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>{1_labelShort} 섭취</ConsumeThing>
@@ -190,6 +194,8 @@
   <IsReservedBy>{0}(은)는 {1}에게 예약됨</IsReservedBy>
   <!-- EN: Too heavy -->
   <TooHeavy>너무 무거움</TooHeavy>
+  <!-- EN: {0_labelShort} is in the same faction. -->
+  <SameFaction>TODO</SameFaction>
 
   <!-- EN: incapable -->
   <Incapable>불가능</Incapable>
@@ -214,6 +220,13 @@
   <CannotWear>{1_label} 착용 불가</CannotWear>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>신체 결손</CannotWearBecauseOfMissingBodyParts>
+  
+  <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
+  <Reload>TODO</Reload>
+  <!-- EN: Full -->
+  <ReloadFull>TODO</ReloadFull>
+  <!-- EN: Too few -->
+  <ReloadNotEnough>TODO</ReloadNotEnough>
   
   <!-- EN: Cannot pick up {1_label} -->
   <CannotPickUp>{1_label} 주울 수 없음</CannotPickUp>
@@ -374,6 +387,8 @@
   <DropAtEdge>가장자리에 낙하</DropAtEdge>
   <!-- EN: Drop in center -->
   <DropInCenter>중앙에 낙하</DropInCenter>
+  <!-- EN: Attack {0} -->
+  <AttackShuttle>TODO</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
   <AttackAndDropAtEdge>{0} 공격: 가장자리에 낙하</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
@@ -420,5 +435,8 @@
 
   <!-- EN: apply {0} -->
   <ApplyTechprint>{0} 적용</ApplyTechprint>
+
+  <!-- EN: Too dangerous -->
+  <EnterCooldownBlocksEntering>TODO</EnterCooldownBlocksEntering>
   
 </LanguageData>

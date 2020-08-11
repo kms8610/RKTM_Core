@@ -90,6 +90,8 @@
   <EnemyOf>적대 중: </EnemyOf>
   <!-- EN: Current goodwill and relations status with this faction. -->
   <CurrentGoodwillTip>현재 세력과의 우호도 및 관계 상태입니다.</CurrentGoodwillTip>
+  <!-- EN: Current relations with this faction. -->
+  <CurrentRelationTip>TODO</CurrentRelationTip>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
   <CurrentGoodwillTip_PermanentEnemy>이 세력은 영구적으로 적대적이며 정착지와 상단을 지속적으로 습격할 것입니다. 어떤 이유로든 관계를 개선할 수 없습니다.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
@@ -202,6 +204,8 @@
   <ResearchTechprintsFromFactions>다음 세력과의 무역이나 임무를 통해 기술청사진을 얻을 수 있습니다.</ResearchTechprintsFromFactions>
   <!-- EN: Your faction tech level is {0}, but this project's tech level is {1}. Research speed will be multiplied by {2}. -->
   <TechLevelTooLow>{0}시대 수준의 기술로 {1}시대 수준의 연구를 진행할 경우 {2}의 연구 속도가 적용됩니다.</TechLevelTooLow>
+  <!-- EN: Unlocked with -->
+  <UnlockedWith>TODO</UnlockedWith>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
@@ -240,6 +244,10 @@
   <ShuttleDepartsIn>{0} 후에 왕복선 출발</ShuttleDepartsIn>
   <!-- EN: Shuttle departs on {0} -->
   <ShuttleDepartsOn>{0}에 왕복선 출발</ShuttleDepartsOn>
+  <!-- EN: Guests depart in {0} -->
+  <GuestsDepartsIn>TODO</GuestsDepartsIn>
+  <!-- EN: Guests depart on {0} -->
+  <GuestsDepartsOn>TODO</GuestsDepartsOn>
   <!-- EN: Finished {0} ago -->
   <QuestFinishedAgo>{0} 전에 완료</QuestFinishedAgo>
   <!-- EN: Accept quest -->
@@ -270,8 +278,14 @@
   <QuestBedroomRequirementsUnsatisfied>다음 작위에 어울리는 빈 침실들: </QuestBedroomRequirementsUnsatisfied>
   <!-- EN: a free bedroom that satisfies the title requirements of -->
   <QuestBedroomRequirementsUnsatisfiedSingle>다음 작위에 어울리는 빈 침실: </QuestBedroomRequirementsUnsatisfiedSingle>
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestThroneRoomRequirementsUnsatisfied>TODO</QuestThroneRoomRequirementsUnsatisfied>
+  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <QuestNoThroneRoom>TODO</QuestNoThroneRoom>
   <!-- EN: a colonist with the title of {0}. -->
   <QuestNoColonistWithTitle>다음 작위를 보유한 정착민: {0}.</QuestNoColonistWithTitle>
+  <!-- EN: {PAWN_definite} must be in home colony -->
+  <QuestPawnNotOnColonyMap>TODO</QuestPawnNotOnColonyMap>
   <!-- EN: Reward preferences -->
   <ChooseRewards>보상 설정</ChooseRewards>
   <!-- EN: Tell other factions what kinds of rewards you want in future quests. This doesn't affect quests that were already offered. -->
@@ -292,6 +306,10 @@
   <GoodwillTip>{0_name}(와)과의 관계가 {1}만큼 향상됩니다.\n\n현재 우호도: {4} ({5}).\n\n우호도는 세력간 관계를 나타냅니다. 우호도가 {2}보다 낮다면, 세력이 적대화되어 정착지와 상단을 공격할 것입니다. 우호도가 {3}보다 높다면, 세력과 동맹국이 되어 전투 때 지원군을 보내 도와줄 것입니다. 그 외에 세력은 중립으로써 자유롭게 거래하고 대화할 수 있습니다.</GoodwillTip>
   <!-- EN: {0_labelShort} joins -->
   <PawnQuestReward>{0_labelShort} 합류</PawnQuestReward>
+  <!-- EN: Betrayal offer: {0} targets remain -->
+  <QuestBetrayalOffer>TODO</QuestBetrayalOffer>
+  <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
+  <QuestBetrayalOfferTip>TODO</QuestBetrayalOfferTip>
   
   <!-- Health tab -->
   <!-- EN: Creates need -->

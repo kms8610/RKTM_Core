@@ -303,9 +303,9 @@
   <CaravanMembers>구성원들</CaravanMembers>
   <!-- EN: Animals -->
   <CaravanAnimals>동물들</CaravanAnimals>
-  <!-- EN: Items to load -->
+  <!-- EN: To load -->
   <ItemsToLoad>적재할 물품들</ItemsToLoad>
-  <!-- EN: Loaded items -->
+  <!-- EN: Loaded -->
   <LoadedItems>적재된 물품들</LoadedItems>
   <!-- EN: pack animals -->
   <PackAnimalsCountLower>동물 떼</PackAnimalsCountLower>

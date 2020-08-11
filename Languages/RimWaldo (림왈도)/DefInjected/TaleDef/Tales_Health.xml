@@ -268,7 +268,7 @@
   <!-- EN: tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label] -->
   <KilledCapacity.rulePack.rulesStrings.1>tale_noun->[VICTIM_nameDef](이)가 [KILLER_nameDef]에게 [WEAPON_label](으)로 [wound_name_present]</KilledCapacity.rulePack.rulesStrings.1>
   <!-- EN: image->[KILLER_nameFull] [cap_removal] [VICTIM_nameFull]'s capacity for [CAPACITY_label] [with_weapon_optional] -->
-  <KilledCapacity.rulePack.rulesStrings.2>image->[KILLER_nameFull] [cap_removal] [VICTIM_nameFull]'s capacity for [CAPACITY_label] [with_weapon_optional]</KilledCapacity.rulePack.rulesStrings.2>
+  <KilledCapacity.rulePack.rulesStrings.2>image->[KILLER_nameFull](이)가 [with_weapon_optional] [VICTIM_nameFull]의 [CAPACITY_label] 기능을 [cap_removal]</KilledCapacity.rulePack.rulesStrings.2>
   <!-- EN: image->[KILLER_nameFull] [wound_name_present] [VICTIM_nameFull] by [cap_removal] [VICTIM_possessive] [CAPACITY_label] [with_weapon_optional] -->
   <KilledCapacity.rulePack.rulesStrings.3>image->[KILLER_nameFull](이)가 [with_weapon_optional] [CAPACITY_label](을)를 [cap_removal] [VICTIM_nameFull](을)를 [wound_name_present]</KilledCapacity.rulePack.rulesStrings.3>
   <!-- EN: cap_removal->destroying -->
@@ -276,7 +276,7 @@
   <!-- EN: cap_removal->eliminating -->
   <KilledCapacity.rulePack.rulesStrings.5>cap_removal->제거하고</KilledCapacity.rulePack.rulesStrings.5>
   <!-- EN: cap_removal->ending -->
-  <KilledCapacity.rulePack.rulesStrings.6>cap_removal->끝내고</KilledCapacity.rulePack.rulesStrings.6>
+  <KilledCapacity.rulePack.rulesStrings.6>cap_removal->끝장내고</KilledCapacity.rulePack.rulesStrings.6>
   <!-- EN: wound_name_past->slayed -->
   <KilledCapacity.rulePack.rulesStrings.7>wound_name_past->slayed</KilledCapacity.rulePack.rulesStrings.7>
   <!-- EN: wound_name_past->executed -->
@@ -310,7 +310,7 @@
   <!-- EN: desc_sentence->A [PersonJob] watches silently [side_position]. -->
   <KilledCapacity.rulePack.rulesStrings.22>desc_sentence->[PersonJob](은)는 조용히 [side_position](을)를 주시합니다.</KilledCapacity.rulePack.rulesStrings.22>
   <!-- EN: desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty]. -->
-  <KilledCapacity.rulePack.rulesStrings.23>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</KilledCapacity.rulePack.rulesStrings.23>
+  <KilledCapacity.rulePack.rulesStrings.23>desc_sentence->[VICTIM_nameDef](은)는 [AdjectiveAngsty] 것처럼 보입니다.</KilledCapacity.rulePack.rulesStrings.23>
   <!-- EN: desc_sentence->[VICTIM_nameDef]'s eyes are closed. -->
   <KilledCapacity.rulePack.rulesStrings.24>desc_sentence->[VICTIM_nameDef](은)는 눈을 감고 있습니다.</KilledCapacity.rulePack.rulesStrings.24>
   <!-- EN: desc_sentence->[KILLER_nameDef] seems satisfied. -->
@@ -375,11 +375,11 @@
   <!-- EN: desc_sentence->A [PersonJob] watches silently [side_position]. -->
   <KilledLongRange.rulePack.rulesStrings.24>desc_sentence->[PersonJob](은)는 조용히 [side_position](을)를 주시합니다.</KilledLongRange.rulePack.rulesStrings.24>
   <!-- EN: desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty]. -->
-  <KilledLongRange.rulePack.rulesStrings.25>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</KilledLongRange.rulePack.rulesStrings.25>
+  <KilledLongRange.rulePack.rulesStrings.25>desc_sentence->[VICTIM_nameDef](은)는 [AdjectiveAngsty] 것처럼 보입니다.</KilledLongRange.rulePack.rulesStrings.25>
   <!-- EN: desc_sentence->[VICTIM_nameDef]'s eyes are closed. -->
   <KilledLongRange.rulePack.rulesStrings.26>desc_sentence->[VICTIM_nameDef](은)는 눈을 감고 있습니다.</KilledLongRange.rulePack.rulesStrings.26>
   <!-- EN: desc_sentence->[VICTIM_nameDef] is covered in [Gore]. -->
-  <KilledLongRange.rulePack.rulesStrings.27>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</KilledLongRange.rulePack.rulesStrings.27>
+  <KilledLongRange.rulePack.rulesStrings.27>desc_sentence->[VICTIM_nameDef](은)는 [Gore]에 뒤덮였습니다.</KilledLongRange.rulePack.rulesStrings.27>
   <!-- EN: desc_sentence->[KILLER_nameDef] is baring [KILLER_possessive] teeth. -->
   <KilledLongRange.rulePack.rulesStrings.28>desc_sentence->[KILLER_nameDef](은)는 이를 드러내고 있습니다.</KilledLongRange.rulePack.rulesStrings.28>
   <!-- EN: desc_sentence->[KILLER_nameDef] seems satisfied. -->
@@ -440,11 +440,11 @@
   <!-- EN: desc_sentence->A [PersonJob] watches silently [side_position]. -->
   <KilledMajorThreat.rulePack.rulesStrings.22>desc_sentence->[PersonJob](은)는 조용히 [side_position](을)를 주시합니다.</KilledMajorThreat.rulePack.rulesStrings.22>
   <!-- EN: desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty]. -->
-  <KilledMajorThreat.rulePack.rulesStrings.23>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</KilledMajorThreat.rulePack.rulesStrings.23>
+  <KilledMajorThreat.rulePack.rulesStrings.23>desc_sentence->[VICTIM_nameDef](은)는 [AdjectiveAngsty] 것처럼 보입니다.</KilledMajorThreat.rulePack.rulesStrings.23>
   <!-- EN: desc_sentence->[VICTIM_nameDef]'s eyes are closed. -->
   <KilledMajorThreat.rulePack.rulesStrings.24>desc_sentence->[VICTIM_nameDef](은)는 눈을 감고 있습니다.</KilledMajorThreat.rulePack.rulesStrings.24>
   <!-- EN: desc_sentence->[VICTIM_nameDef] is covered in [Gore]. -->
-  <KilledMajorThreat.rulePack.rulesStrings.25>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</KilledMajorThreat.rulePack.rulesStrings.25>
+  <KilledMajorThreat.rulePack.rulesStrings.25>desc_sentence->[VICTIM_nameDef](은)는 [Gore]에 뒤덮였습니다.</KilledMajorThreat.rulePack.rulesStrings.25>
   <!-- EN: desc_sentence->[VICTIM_nameDef] and [KILLER_nameDef] are both covered in [Gore]. -->
   <KilledMajorThreat.rulePack.rulesStrings.26>desc_sentence->[VICTIM_nameDef] and [KILLER_nameDef] are both covered in [Gore].</KilledMajorThreat.rulePack.rulesStrings.26>
   <!-- EN: desc_sentence->[VICTIM_nameDef]'s corpse towers over [KILLER_nameDef]. -->
@@ -519,11 +519,11 @@
   <!-- EN: desc_sentence->A [PersonJob] watches silently [side_position]. -->
   <KilledMelee.rulePack.rulesStrings.24>desc_sentence->[PersonJob](은)는 조용히 [side_position](을)를 주시합니다.</KilledMelee.rulePack.rulesStrings.24>
   <!-- EN: desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty]. -->
-  <KilledMelee.rulePack.rulesStrings.25>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</KilledMelee.rulePack.rulesStrings.25>
+  <KilledMelee.rulePack.rulesStrings.25>desc_sentence->[VICTIM_nameDef](은)는 [AdjectiveAngsty] 것처럼 보입니다.</KilledMelee.rulePack.rulesStrings.25>
   <!-- EN: desc_sentence->[VICTIM_nameDef]'s eyes are closed. -->
   <KilledMelee.rulePack.rulesStrings.26>desc_sentence->[VICTIM_nameDef](은)는 눈을 감고 있습니다.</KilledMelee.rulePack.rulesStrings.26>
   <!-- EN: desc_sentence->[VICTIM_nameDef] is covered in [Gore]. -->
-  <KilledMelee.rulePack.rulesStrings.27>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</KilledMelee.rulePack.rulesStrings.27>
+  <KilledMelee.rulePack.rulesStrings.27>desc_sentence->[VICTIM_nameDef](은)는 [Gore]에 뒤덮였습니다.</KilledMelee.rulePack.rulesStrings.27>
   <!-- EN: desc_sentence->[VICTIM_nameDef] and [KILLER_nameDef] are both covered in [Gore]. -->
   <KilledMelee.rulePack.rulesStrings.28>desc_sentence->[VICTIM_nameDef] and [KILLER_nameDef] are both covered in [Gore].</KilledMelee.rulePack.rulesStrings.28>
   <!-- EN: desc_sentence->[KILLER_nameDef] is covered in [Gore]. -->
@@ -544,37 +544,37 @@
   <!-- EN: killed with mortar -->
   <KilledMortar.label>곡사포에 의해 살해당함</KilledMortar.label>
   <!-- EN: tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a mortar -->
-  <KilledMortar.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a mortar</KilledMortar.rulePack.rulesStrings.0>
+  <KilledMortar.rulePack.rulesStrings.0>tale_noun->[KILLER_nameDef](이)가 [VICTIM_nameDef]의 박격포에 [wound_name_present]</KilledMortar.rulePack.rulesStrings.0>
   <!-- EN: tale_noun->[VICTIM_nameDef] being killed by [KILLER_nameDef]'s artillery -->
-  <KilledMortar.rulePack.rulesStrings.1>tale_noun->[VICTIM_nameDef] being killed by [KILLER_nameDef]'s artillery</KilledMortar.rulePack.rulesStrings.1>
+  <KilledMortar.rulePack.rulesStrings.1>tale_noun->[VICTIM_nameDef](이)가 [KILLER_nameDef]의 곡사포에 죽는 모습</KilledMortar.rulePack.rulesStrings.1>
   <!-- EN: image->[KILLER_nameFull] carefully adjusting a firing tube [circumstance_group] -->
-  <KilledMortar.rulePack.rulesStrings.2>image->[KILLER_nameFull] carefully adjusting a firing tube [circumstance_group]</KilledMortar.rulePack.rulesStrings.2>
+  <KilledMortar.rulePack.rulesStrings.2>image->[KILLER_nameFull](은)는 [circumstance_group] 조심스럽게 발사관을 조정하는 모습</KilledMortar.rulePack.rulesStrings.2>
   <!-- EN: image->[KILLER_nameFull] looking into the distance [circumstance_group] -->
-  <KilledMortar.rulePack.rulesStrings.3>image->[KILLER_nameFull] looking into the distance [circumstance_group]</KilledMortar.rulePack.rulesStrings.3>
+  <KilledMortar.rulePack.rulesStrings.3>image->[KILLER_nameFull](은)는 [circumstance_group] 거리를 조사하는 모습</KilledMortar.rulePack.rulesStrings.3>
   <!-- EN: image->[KILLER_nameFull] doing calculations on paper [circumstance_group] -->
-  <KilledMortar.rulePack.rulesStrings.4>image->[KILLER_nameFull] doing calculations on paper [circumstance_group]</KilledMortar.rulePack.rulesStrings.4>
+  <KilledMortar.rulePack.rulesStrings.4>image->[KILLER_nameFull](은)는 [circumstance_group] 종이에 계산하는 모습</KilledMortar.rulePack.rulesStrings.4>
   <!-- EN: image->[KILLER_nameFull] testing wind direction [circumstance_group] -->
-  <KilledMortar.rulePack.rulesStrings.5>image->[KILLER_nameFull] testing wind direction [circumstance_group]</KilledMortar.rulePack.rulesStrings.5>
+  <KilledMortar.rulePack.rulesStrings.5>image->[KILLER_nameFull](은)는 [circumstance_group] 바람이 부는 방향을 검사하는 모습</KilledMortar.rulePack.rulesStrings.5>
   <!-- EN: circumstance_phrase->while [VICTIM_nameFull] is consumed in a massive explosion -->
-  <KilledMortar.rulePack.rulesStrings.6>circumstance_phrase->while [VICTIM_nameFull] is consumed in a massive explosion</KilledMortar.rulePack.rulesStrings.6>
+  <KilledMortar.rulePack.rulesStrings.6>circumstance_phrase->[VICTIM_nameFull](이)가 대규모 폭발에 휩싸이는 동안</KilledMortar.rulePack.rulesStrings.6>
   <!-- EN: circumstance_phrase->as a shell arcs down towards [VICTIM_nameFull] -->
-  <KilledMortar.rulePack.rulesStrings.7>circumstance_phrase->as a shell arcs down towards [VICTIM_nameFull]</KilledMortar.rulePack.rulesStrings.7>
+  <KilledMortar.rulePack.rulesStrings.7>circumstance_phrase->[VICTIM_nameFull]에게 포탄이 향하도록</KilledMortar.rulePack.rulesStrings.7>
   <!-- EN: circumstance_phrase->while [VICTIM_nameFull] walks around obliviously -->
-  <KilledMortar.rulePack.rulesStrings.8>circumstance_phrase->while [VICTIM_nameFull] walks around obliviously</KilledMortar.rulePack.rulesStrings.8>
+  <KilledMortar.rulePack.rulesStrings.8>circumstance_phrase->[VICTIM_nameFull](이)가 인식하지 못한 채 걷는 동안</KilledMortar.rulePack.rulesStrings.8>
   <!-- EN: circumstance_phrase->as [VICTIM_nameFull] sprints -->
-  <KilledMortar.rulePack.rulesStrings.9>circumstance_phrase->as [VICTIM_nameFull] sprints</KilledMortar.rulePack.rulesStrings.9>
+  <KilledMortar.rulePack.rulesStrings.9>circumstance_phrase->전력 질주하는 [VICTIM_nameFull](을)를 향해</KilledMortar.rulePack.rulesStrings.9>
   <!-- EN: desc_sentence->[Quantity_adjphrase] [Animal]s look on. -->
   <KilledMortar.rulePack.rulesStrings.10>desc_sentence->[Quantity_adjphrase] 마리의 [Animal]들이 보입니다.</KilledMortar.rulePack.rulesStrings.10>
   <!-- EN: desc_sentence->A [PersonJob] watches silently [side_position]. -->
   <KilledMortar.rulePack.rulesStrings.11>desc_sentence->[PersonJob](은)는 조용히 [side_position](을)를 주시합니다.</KilledMortar.rulePack.rulesStrings.11>
   <!-- EN: desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty]. -->
-  <KilledMortar.rulePack.rulesStrings.12>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</KilledMortar.rulePack.rulesStrings.12>
+  <KilledMortar.rulePack.rulesStrings.12>desc_sentence->[VICTIM_nameDef](은)는 [AdjectiveAngsty] 것처럼 보입니다.</KilledMortar.rulePack.rulesStrings.12>
   <!-- EN: desc_sentence->[VICTIM_nameDef] is covered in [Gore]. -->
-  <KilledMortar.rulePack.rulesStrings.13>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</KilledMortar.rulePack.rulesStrings.13>
+  <KilledMortar.rulePack.rulesStrings.13>desc_sentence->[VICTIM_nameDef](은)는 [Gore]에 뒤덮였습니다.</KilledMortar.rulePack.rulesStrings.13>
   <!-- EN: desc_sentence->[VICTIM_nameDef] is surrounded by explosions. -->
-  <KilledMortar.rulePack.rulesStrings.14>desc_sentence->[VICTIM_nameDef] is surrounded by explosions.</KilledMortar.rulePack.rulesStrings.14>
+  <KilledMortar.rulePack.rulesStrings.14>desc_sentence->[VICTIM_nameDef](은)는 폭발로 둘러싸여 있습니다.</KilledMortar.rulePack.rulesStrings.14>
   <!-- EN: desc_sentence->[VICTIM_nameDef] is surrounded by craters. -->
-  <KilledMortar.rulePack.rulesStrings.15>desc_sentence->[VICTIM_nameDef] is surrounded by craters.</KilledMortar.rulePack.rulesStrings.15>
+  <KilledMortar.rulePack.rulesStrings.15>desc_sentence->[VICTIM_nameDef](은)는 포탄 구멍에 둘러싸여 있습니다.</KilledMortar.rulePack.rulesStrings.15>
   <!-- EN: desc_sentence->[KILLER_nameDef] seems satisfied. -->
   <KilledMortar.rulePack.rulesStrings.16>desc_sentence->[KILLER_nameDef](은)는 만족한 것 같습니다.</KilledMortar.rulePack.rulesStrings.16>
   <!-- EN: desc_sentence->[KILLER_nameDef] looks distressed at what [KILLER_pronoun] is doing. -->
@@ -692,9 +692,9 @@
   <!-- EN: desc_sentence->Blood is pooling around [VICTIM_nameDef]'s body. -->
   <Wounded.rulePack.rulesStrings.30>desc_sentence->Blood is pooling around [VICTIM_nameDef]'s body.</Wounded.rulePack.rulesStrings.30>
   <!-- EN: desc_sentence->[VICTIM_nameDef] is covered in [Gore]. -->
-  <Wounded.rulePack.rulesStrings.31>desc_sentence->[VICTIM_nameDef] is covered in [Gore].</Wounded.rulePack.rulesStrings.31>
+  <Wounded.rulePack.rulesStrings.31>desc_sentence->[VICTIM_nameDef](은)는 [Gore]에 뒤덮였습니다.</Wounded.rulePack.rulesStrings.31>
   <!-- EN: desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty]. -->
-  <Wounded.rulePack.rulesStrings.32>desc_sentence->[VICTIM_nameDef] looks [AdjectiveAngsty].</Wounded.rulePack.rulesStrings.32>
+  <Wounded.rulePack.rulesStrings.32>desc_sentence->[VICTIM_nameDef](은)는 [AdjectiveAngsty] 것처럼 보입니다.</Wounded.rulePack.rulesStrings.32>
   <!-- EN: desc_sentence->[VICTIM_nameDef] is wincing in pain. -->
   <Wounded.rulePack.rulesStrings.33>desc_sentence->[VICTIM_nameDef] is wincing in pain.</Wounded.rulePack.rulesStrings.33>
   <!-- EN: desc_sentence->[VICTIM_nameDef] is wincing in agony. -->

@@ -20,7 +20,7 @@
   <ScenPart_ArriveInDropPods>낙하기로 도착합니다.</ScenPart_ArriveInDropPods>
 
   <!-- EN: The stat "{0}" will be universally multiplied by {1}. -->
-  <ScenPart_StatFactor>모든 캐릭터의 능력치 "{0}"(이)가 기존의 {1}배로 설정됩니다.</ScenPart_StatFactor>
+  <ScenPart_StatFactor>모든 캐릭터의 "{0}" 능력치가 기존의 {1}배로 설정됩니다.</ScenPart_StatFactor>
 
   <!-- Pawn modifiers -->
   <!-- EN: {0} have a {1} chance to start with {2}. -->

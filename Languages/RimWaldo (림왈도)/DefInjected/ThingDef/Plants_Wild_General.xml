@@ -9,7 +9,7 @@
   <!-- EN: bush -->
   <Plant_Bush.label>덤불</Plant_Bush.label>
   <!-- EN: A short shrub. Does not typically talk. -->
-  <Plant_Bush.description>짧은 관목입니다. 보통 말을 하진 않습니다.</Plant_Bush.description>
+  <Plant_Bush.description>말이 필요 없을 만큼 짧은 관목입니다.</Plant_Bush.description>
   
   <!-- EN: grass -->
   <Plant_Grass.label>잡초</Plant_Grass.label>

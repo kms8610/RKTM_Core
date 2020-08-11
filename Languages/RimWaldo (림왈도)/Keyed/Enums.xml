@@ -312,4 +312,6 @@
   <ExtraFactionType_HomeFaction>출신 세력</ExtraFactionType_HomeFaction>
   <!-- EN: remote host faction -->
   <ExtraFactionType_HostFaction>현재 세력</ExtraFactionType_HostFaction>
+  <!-- EN: group -->
+  <ExtraFactionType_MiniFaction>TODO</ExtraFactionType_MiniFaction>
 </LanguageData>

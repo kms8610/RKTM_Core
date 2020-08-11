@@ -55,7 +55,7 @@
   <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>당신은 도적 주둔지를 효과적으로 소탕했습니다!\n\n[asker_faction_name](이)가 약속했던 보상을 보냅니다.</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
   <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
-  <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] favor for this service. -->
+  <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
   <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>이 정착민들은 [resolvedQuestName] 임무 성공의 주역들입니다. [asker_definite](은)는 누가 [asker_faction_royalFavorLabel]의 [royalFavorReward_amount](을)를 받아야 하는지 알고 싶어합니다.</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
   
 </LanguageData>

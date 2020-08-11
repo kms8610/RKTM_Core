@@ -109,7 +109,7 @@
   <PsychicDroneLevel>정신파동 단계: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
   <LetterLabelPsychicDroneLevelIncreased>정신파동 심화</LetterLabelPsychicDroneLevelIncreased>
-  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid. -->
+  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
   <LetterPsychicDroneLevelIncreased>추락한 우주선의 잔해에서 더 강한 정신파동이 방출됩니다. 이 지역의 모든 인간들이 더 불안해 하고, 쉽게 겁에 질리며, 피해 망상이 심화됩니다.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
