@@ -57,9 +57,9 @@
   <PrecisionRifling.description>돌격소총, 저격소총을 제작할 수 있습니다.</PrecisionRifling.description>
   
   <!-- EN: shields -->
-  <ShieldBelt.label>보호막 벨트</ShieldBelt.label>
+  <ShieldBelt.label>보호막</ShieldBelt.label>
   <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundry. -->
-  <ShieldBelt.description>운동량 굴절장 기술을 활용해 원거리 투사체를 막는 보호막 벨트를 만들 수 있습니다.</ShieldBelt.description>
+  <ShieldBelt.description>운동량 굴절장 기술을 활용해 원거리 투사체를 막는 착용 가능한 보호막을 만들 수 있습니다.</ShieldBelt.description>
   
   <!-- EN: transport pod -->
   <TransportPod.label>준궤도 수송</TransportPod.label>

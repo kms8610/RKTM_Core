@@ -3303,7 +3303,7 @@
     <!-- EN: infanteer -->
     <titleShort>보병</titleShort>
     <!-- EN: {PAWN_nameDef} was an ordinary infanteer in an imperial battalion.\n\nConscripted at a young age to add bodies the army, {PAWN_nameDef} learned the methods of fighting well enough to satisfy {PAWN_possessive} officers. However, {PAWN_pronoun} never quite understood what was going on around {PAWN_objective} enough to really believe in it. -->
-    <desc>{PAWN_nameDef}(은)는 제국 부대의 평범한 병사였습니다.\n\n군인의 수를 확보하기 위해 어린 나이에 징집된 {PAWN_nameDef}(은)는 {PAWN_possessive} 장교들을 만족시킬 만큼 잘 싸우는 방법을 배웠습니다. 그러나 [PAWN_pronun](은)는 {PAWN_objective} 주위에서 무슨 일이 일어나고 있는지 제대로 이해하지 못했습니다.</desc>
+    <desc>{PAWN_nameDef}(은)는 제국 부대의 평범한 병사였습니다.\n\n군인의 수를 확보하기 위해 어린 나이에 징집된 {PAWN_nameDef}(은)는 {PAWN_possessive} 장교들을 만족시킬 만큼 잘 싸우는 방법을 배웠습니다. 그러나 {PAWN_pronoun}는 주위에서 무슨 일이 일어나고 있는지 제대로 이해하지 못했습니다.</desc>
   </LineInfanteer20>
   
   <LivestockFarmer8>
@@ -3312,7 +3312,7 @@
     <!-- EN: farmer -->
     <titleShort>농부</titleShort>
     <!-- EN: {PAWN_nameDef} ran a livestock farm. {PAWN_pronoun} analyzed animal genetics, feed types, birth and slaughter methods, and price trends to optimize the raising of huge animal herds. -->
-    <desc>{PAWN_nameDef}(은)는 가축 농장을 운영했습니다. [PAWN_pronun]은 동물의 유전, 사료의 종류, 출산 및 도축 방법, 가격 동향을 분석해 거대한 동물 떼의 사육을 최적화했습니다.  </desc>
+    <desc>{PAWN_nameDef}(은)는 가축 농장을 운영했습니다. {PAWN_pronoun}는 동물의 유전, 사료의 종류, 출산 및 도축 방법, 가격 동향을 분석해 거대한 동물 떼의 사육을 최적화했습니다.</desc>
   </LivestockFarmer8>
   
   <Logger16>
@@ -3465,7 +3465,7 @@
     <!-- EN: scientist -->
     <titleShort>과학자</titleShort>
     <!-- EN: {PAWN_nameDef} grew up miserable on the plains of a rimworld. {PAWN_pronoun} found the strength to fight under the teachings of an old, broken scientist.\n\n{PAWN_pronoun} quickly learned to play with people's fears, and was nicknamed 'mad scientist'. -->
-    <desc>{PAWN_nameDef}(은)는 변방계의 초원에서 비참하게 자랐습니다. [PAWN_pronun]는 늙고 망가진 과학자의 가르침 아래 싸울 수 있는 힘을 찾았습니다.\n\n[PAWN_pronun]는 사람들의 두려움을 가지고 노는 법을 빨리 배웠고, '미친 과학자'라는 별명이 붙었습니다.</desc>
+    <desc>{PAWN_nameDef}(은)는 변방계의 초원에서 비참하게 자랐습니다. {PAWN_pronoun}는 늙고 망가진 과학자의 가르침 아래 싸울 수 있는 힘을 찾았습니다.\n\n{PAWN_pronoun}는 사람들의 두려움을 가지고 노는 법을 빨리 배웠고, '미친 과학자'라는 별명이 붙었습니다.</desc>
   </MadScientist47>
   
   <MafiaBoss17>

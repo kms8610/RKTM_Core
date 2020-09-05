@@ -1013,9 +1013,9 @@
   <!-- EN: {0} must target an unroofed area. -->
   <AbilityRoofed>{0}(은)는 지붕이 없는 공간을 지정해야 합니다.</AbilityRoofed>
   <!-- EN: {0_labelShort} is mentally broken. -->
-  <AbilityCantApplyToMentallyBroken>{0}(은)는 정신이상이 생겼습니다.</AbilityCantApplyToMentallyBroken>
+  <AbilityCantApplyToMentallyBroken>{0_labelShort}(은)는 정신이상이 생겼습니다.</AbilityCantApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not mentally broken. -->
-  <AbilityCanOnlyApplyToMentallyBroken>{0}(은)는 정신이상이 없습니다.</AbilityCanOnlyApplyToMentallyBroken>
+  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort}(은)는 정신이상이 없습니다.</AbilityCanOnlyApplyToMentallyBroken>
   <!-- EN: {0} doesn't work on the '{1}' mental state. -->
   <AbilityDoesntWorkOnMentalState>{0}(은)는 '{1}' 정신상태에서 작동되지 않습니다.</AbilityDoesntWorkOnMentalState>
   <!-- EN: {0_labelShort} has zero resistance. -->

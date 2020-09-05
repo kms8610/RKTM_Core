@@ -410,7 +410,7 @@
   <!-- EN: Launch -->
   <CommandLaunchGroup>그룹 발사 명령</CommandLaunchGroup>
   <!-- EN: Take off and fly to a destination. -->
-  <CommandLaunchGroupDesc>다수의 수송 포드 발사 절차를 동시에 시작합니다. 다음 단계는 목적지 설정입니다. 그룹에 속한 수송 포드는 모두 동시에 착륙합니다.</CommandLaunchGroupDesc>
+  <CommandLaunchGroupDesc>이륙해서 목적지로 날아갑니다.</CommandLaunchGroupDesc>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
   <CommandLaunchGroupFailNotConnectedToFuelingPort>그룹에 속한 수송 포드 일부가 연료 주입기에 연결되지 않았습니다.</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Some pod launchers in this group have no fuel. -->

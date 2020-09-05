@@ -369,7 +369,7 @@
   <!-- EN: {0} with {1} -->
   <ProximitySingleGoodwillChange>{0}(와)과 {1}</ProximitySingleGoodwillChange>
   <!-- EN: Too dangerous to re-enter for {0}. -->
-  <EnterCooldown>{0}일 동안 재입장할 수 없습니다.</EnterCooldown>
+  <EnterCooldown>{0}에 재진입하기에는 너무 위험합니다.</EnterCooldown>
   <!-- EN: Caravan -->
   <Caravan>상단</Caravan>
   <!-- EN: there may be danger there. -->
@@ -721,9 +721,9 @@
   <!-- EN: Faction -->
   <Faction>세력</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
-  <FactionDesc>{PAWN_labelShort}(이)가 현재 소속된 세력입니다.</FactionDesc>
+  <FactionDesc>{PAWN_labelShort}의 현재 소속된 세력입니다.</FactionDesc>
   <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
-  <ExtraFactionDesc>{PAWN_labelShort}의 출신 세력입니다. 만약 현재 소속된 세력에서 문제가 생겨 이탈할 경우 이곳으로 돌아가게 됩니다.</ExtraFactionDesc>
+  <ExtraFactionDesc>{PAWN_labelShort}의 출신 세력입니다.</ExtraFactionDesc>
   <!-- EN: Equipped -->
   <Equipped>장착</Equipped>
   <!-- EN: nothing -->

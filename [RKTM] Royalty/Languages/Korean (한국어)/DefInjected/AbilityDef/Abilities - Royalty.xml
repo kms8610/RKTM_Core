@@ -116,7 +116,7 @@
   <!-- EN: vertigo pulse -->
   <VertigoPulse.label>현기증의 파동</VertigoPulse.label>
   <!-- EN: Interfere with the spatial orientation sense of everyone near the target point, causing intermittent loss of balance. Flesh creatures will become extremely nauseous as well. -->
-  <VertigoPulse.description>대상 지점 근처에 있는 모든 사람의 공간지각에 간섭하여 간헐적인 균형 상실을 일으킵니다. 살덩이들 또한 극도로 구역질이 날 것입니다.</VertigoPulse.description>
+  <VertigoPulse.description>대상 지점 근처에 있는 모든 사람의 공간지각에 간섭하여 간헐적인 균형 상실을 일으킵니다. 생명체들 또한 극심한 구역질이 날 것입니다.</VertigoPulse.description>
   
   <!-- EN: wallraise -->
   <Wallraise.label>벽 세우기</Wallraise.label>

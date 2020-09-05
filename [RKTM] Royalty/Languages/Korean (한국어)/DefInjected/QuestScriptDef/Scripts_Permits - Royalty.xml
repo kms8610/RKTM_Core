@@ -37,7 +37,7 @@
   <!-- EN: Shuttle arrived -->
   <Permit_CallShuttle.LetterLabelPermitShuttleArrived.slateRef>왕복선 도착</Permit_CallShuttle.LetterLabelPermitShuttleArrived.slateRef>
   <!-- EN: The shuttle called by [asker_nameDef] has arrived.\n\nIf you don't use the shuttle, it will return to [permitFaction_name] in [shuttleReturnDays] days. -->
-  <Permit_CallShuttle.LetterTextPermitShuttleArrived.slateRef>[asker_nameDef](이)가 호출한 왕복선이 도착했습니다.\n\n왕복선을 사용하지 않으면, [shuttleReturnDays] 내에 [permitFaction_name](으)로 돌아갑니다.</Permit_CallShuttle.LetterTextPermitShuttleArrived.slateRef>
+  <Permit_CallShuttle.LetterTextPermitShuttleArrived.slateRef>[asker_nameDef](이)가 호출한 왕복선이 도착했습니다.\n\n왕복선을 사용하지 않으면, [shuttleReturnDays]일 내에 [permitFaction_name](으)로 돌아갑니다.</Permit_CallShuttle.LetterTextPermitShuttleArrived.slateRef>
   <!-- EN: shuttle destroyed -->
   <Permit_CallShuttle.GoodwillChangeReasonShuttleDestroyed.slateRef>파괴된 왕복선</Permit_CallShuttle.GoodwillChangeReasonShuttleDestroyed.slateRef>
   <!-- EN: Shuttle left -->
