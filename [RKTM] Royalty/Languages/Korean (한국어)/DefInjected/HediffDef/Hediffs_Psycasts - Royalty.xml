@@ -41,11 +41,11 @@
   <PsychicBurden.label>정신 부하</PsychicBurden.label>
   <!-- EN: Psychically-induced difficulty in locomotion. -->
   <PsychicBurden.description>초능력으로 인해 움직임이 둔해졌습니다.</PsychicBurden.description>
-
+  
   <!-- EN: neural heat -->
   <PsychicEntropy.label>신경열</PsychicEntropy.label>
-  <!-- EN: Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which is built up when using psychic powers and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown, psylink degradation and finally unconsciousness due to psychic shock. None of these conditions cause permanent damage, but they can knock someone unconscious for days. -->
-  <PsychicEntropy.description>"열"이라고 하더라도 신경열은 온도의 척도가 아닙니다. 정신력을 사용할 때 축적되고 몇 초나 몇 분 사이에 소멸되는 정신의 혼란한 정신에너지의 한 종류를 말합니다.\n\n신경열이 한계치를 넘어서면 일시적인 정신이상, 정신력 증폭기의 파괴, 심지어 정신충격으로 인한 의식불명을 유발할 수 있습니다. 이러한 상태는 영구적인 손상은 없지만 며칠동안 누군가 의식을 잃을수도 있습니다.</PsychicEntropy.description>
+  <!-- EN: Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which is built up when using psychic powers and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown and unconsciousness due to psychic shock. These conditions don't cause permanent damage. -->
+  <PsychicEntropy.description>"열"이라고 하더라도 신경열은 온도의 척도가 아닙니다. 정신력을 사용할 때 축적되고 몇 초나 몇 분 사이에 소멸되는 정신의 혼란한 정신에너지의 한 종류를 말합니다.\n\n신경열이 한계치를 넘어서면 일시적인 정신이상과 정신충격으로 인한 의식불명을 유발할 수 있습니다. 이러한 상태는 영구적인 피해를 남기지 않습니다.</PsychicEntropy.description>
   <!-- EN: safe -->
   <PsychicEntropy.stages.safe.label>안전</PsychicEntropy.stages.safe.label>
   <!-- EN: overloaded -->
@@ -56,7 +56,7 @@
   <PsychicEntropy.stages.extreme.label>극심함</PsychicEntropy.stages.extreme.label>
   <!-- EN: overwhelming -->
   <PsychicEntropy.stages.overwhelming.label>괴멸</PsychicEntropy.stages.overwhelming.label>
-
+  
   <!-- EN: psychic focus -->
   <PsychicFocus.label>정신 집중</PsychicFocus.label>
   <!-- EN: Psychically-induced mental focus, increasing sight, hearing and movement capactities. -->
